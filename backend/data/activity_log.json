@@ -1,0 +1,62 @@
+[
+  {
+    "type": "user",
+    "time": "3:52:04 PM",
+    "event": "Operator approved REC-001"
+  },
+  {
+    "type": "user",
+    "time": "4:16:34 PM",
+    "event": "Recommendation REC-001 rejected"
+  },
+  {
+    "type": "user",
+    "time": "4:16:50 PM",
+    "event": "Recommendation REC-001 escalated"
+  },
+  {
+    "type": "user",
+    "time": "4:17:01 PM",
+    "event": "More details requested for REC-001"
+  },
+  {
+    "type": "user",
+    "time": "4:29:58 PM",
+    "event": "Recommendation REC-001 approved"
+  },
+  {
+    "type": "user",
+    "time": "4:30:26 PM",
+    "event": "Recommendation REC-001 approved"
+  },
+  {
+    "type": "user",
+    "time": "4:42:03 PM",
+    "event": "Recommendation REC-001 escalated"
+  },
+  {
+    "type": "user",
+    "time": "4:43:30 PM",
+    "event": "Recommendation REC-001 approved"
+  },
+  {
+    "type": "user",
+    "time": "6:38:17 PM",
+    "event": "Recommendation REC-001 approved"
+  },
+  {
+    "type": "user",
+    "time": "6:42:06 PM",
+    "event": "Recommendation REC-002 approved"
+  },
+  {
+    "type": "user",
+    "time": "7:08:54 PM",
+    "event": "Recommendation REC-001 approved"
+  },
+  {
+    "type": "user",
+    "time": "7:09:10 PM",
+    "event": "Recommendation REC-004 escalated"
+  }
+]

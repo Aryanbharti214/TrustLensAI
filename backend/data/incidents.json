@@ -1,0 +1,18 @@
+[
+  {
+    "incidentId": "INC-001",
+    "recommendationId": "REC-001",
+    "whatHappened": "Device quarantined",
+    "why": "Multiple failed login attempts",
+    "safeguardFailed": "Maintenance metadata unavailable",
+    "futurePrevention": "Add maintenance awareness"
+  },
+  {
+    "incidentId": "INC-1781876350916",
+    "recommendationId": "REC-004",
+    "action": "Escalated",
+    "severity": "Critical",
+    "whatHappened": "Quarantine Device",
+    "createdAt": "2026-06-19T13:39:10.916Z"
+  }
+]

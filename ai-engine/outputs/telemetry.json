@@ -1,0 +1,2502 @@
+[
+    {
+        "device_id": "DEV-1000",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1001",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1002",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1003",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1004",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1005",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1006",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1007",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1008",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1009",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1010",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1011",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1012",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1013",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1014",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1015",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1016",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1017",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1018",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1019",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1020",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1021",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1022",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1023",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1024",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1025",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1026",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1027",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1028",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1029",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1030",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1031",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1032",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1033",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1034",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1035",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1036",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1037",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1038",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1039",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1040",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1041",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1042",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1043",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1044",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1045",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1046",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1047",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1048",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1049",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1050",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1051",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1052",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1053",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1054",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1055",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1056",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1057",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1058",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1059",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1060",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1061",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1062",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1063",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1064",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1065",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1066",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1067",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1068",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1069",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1070",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1071",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1072",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1073",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1074",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1075",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1076",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1077",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1078",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1079",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1080",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1081",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1082",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1083",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1084",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1085",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1086",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1087",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1088",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1089",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1090",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1091",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1092",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1093",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1094",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1095",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1096",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1097",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1098",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1099",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1100",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1101",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1102",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1103",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1104",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1105",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1106",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1107",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1108",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1109",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1110",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1111",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1112",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1113",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1114",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1115",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1116",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1117",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1118",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1119",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1120",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1121",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1122",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1123",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1124",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1125",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1126",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1127",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1128",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1129",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1130",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1131",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1132",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1133",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1134",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1135",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1136",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1137",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1138",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1139",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1140",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1141",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1142",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1143",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1144",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1145",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1146",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1147",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1148",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1149",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1150",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1151",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1152",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1153",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1154",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1155",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1156",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1157",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1158",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1159",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1160",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1161",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1162",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1163",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1164",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1165",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1166",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1167",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1168",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1169",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1170",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1171",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1172",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1173",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1174",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1175",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1176",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1177",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1178",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1179",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1180",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1181",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1182",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1183",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1184",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1185",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1186",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1187",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1188",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1189",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1190",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1191",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1192",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1193",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1194",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1195",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1196",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1197",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1198",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1199",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1200",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1201",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1202",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1203",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1204",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1205",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1206",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1207",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1208",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1209",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1210",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1211",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1212",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1213",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1214",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1215",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1216",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1217",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1218",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1219",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1220",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1221",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1222",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1223",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1224",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1225",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1226",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1227",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1228",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1229",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1230",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1231",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1232",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1233",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1234",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1235",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1236",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1237",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1238",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1239",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1240",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1241",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1242",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1243",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1244",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1245",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1246",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1247",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1248",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1249",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1250",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1251",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1252",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1253",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1254",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1255",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1256",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1257",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1258",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1259",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1260",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1261",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1262",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1263",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1264",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1265",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1266",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1267",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1268",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1269",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1270",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1271",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1272",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1273",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1274",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1275",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1276",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1277",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1278",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1279",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1280",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1281",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1282",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1283",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1284",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1285",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1286",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1287",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1288",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1289",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1290",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1291",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1292",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1293",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1294",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1295",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1296",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1297",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1298",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1299",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1300",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1301",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1302",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1303",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1304",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1305",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1306",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1307",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1308",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1309",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1310",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1311",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1312",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1313",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1314",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1315",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1316",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1317",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1318",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1319",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1320",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1321",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1322",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1323",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1324",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1325",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1326",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1327",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1328",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1329",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1330",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1331",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1332",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1333",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1334",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1335",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1336",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1337",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1338",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1339",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1340",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1341",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1342",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1343",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1344",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1345",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1346",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1347",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1348",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1349",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1350",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1351",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1352",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1353",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1354",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1355",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1356",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1357",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1358",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1359",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1360",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1361",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1362",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1363",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1364",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1365",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1366",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1367",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1368",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1369",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1370",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1371",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1372",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1373",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1374",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1375",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1376",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1377",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1378",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1379",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1380",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1381",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1382",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1383",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1384",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1385",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1386",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1387",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1388",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1389",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1390",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1391",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1392",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1393",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1394",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1395",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1396",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1397",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1398",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1399",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1400",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1401",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1402",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1403",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1404",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1405",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1406",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1407",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1408",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1409",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1410",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1411",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1412",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1413",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1414",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1415",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1416",
+        "failed_logins": 7,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1417",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1418",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1419",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1420",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1421",
+        "failed_logins": 4,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1422",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1423",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1424",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1425",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1426",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1427",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1428",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1429",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1430",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1431",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1432",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1433",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1434",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1435",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1436",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1437",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1438",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1439",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1440",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1441",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1442",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1443",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1444",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1445",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1446",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1447",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1448",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1449",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1450",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1451",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1452",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1453",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1454",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1455",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1456",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1457",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1458",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1459",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1460",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1461",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1462",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1463",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1464",
+        "failed_logins": 5,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1465",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1466",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1467",
+        "failed_logins": 0,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1468",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1469",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1470",
+        "failed_logins": 8,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1471",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1472",
+        "failed_logins": 10,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1473",
+        "failed_logins": 5,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1474",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1475",
+        "failed_logins": 8,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1476",
+        "failed_logins": 7,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1477",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1478",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1479",
+        "failed_logins": 4,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1480",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1481",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1482",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1483",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1484",
+        "failed_logins": 0,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1485",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1486",
+        "failed_logins": 2,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1487",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1488",
+        "failed_logins": 2,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1489",
+        "failed_logins": 10,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1490",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1491",
+        "failed_logins": 9,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1492",
+        "failed_logins": 3,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1493",
+        "failed_logins": 6,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1494",
+        "failed_logins": 1,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1495",
+        "failed_logins": 1,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1496",
+        "failed_logins": 9,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1497",
+        "failed_logins": 6,
+        "network_anomaly": true
+    },
+    {
+        "device_id": "DEV-1498",
+        "failed_logins": 3,
+        "network_anomaly": false
+    },
+    {
+        "device_id": "DEV-1499",
+        "failed_logins": 5,
+        "network_anomaly": false
+    }
+]
